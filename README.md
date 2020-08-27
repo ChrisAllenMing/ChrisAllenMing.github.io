@@ -1,8 +1,10 @@
+# Minghao's Homepage
+
 This repository maintains the project files of Minghao's Homepage.
 
 I would like to appreciate the academic page template provided by [this excellent work](https://github.com/academicpages/academicpages.github.io), which is forked (and then detached) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
-# Develop upon this project
+## Develop upon this project
 
 1. Fork this repository.
 
