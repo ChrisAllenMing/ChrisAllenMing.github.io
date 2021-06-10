@@ -26,6 +26,11 @@ Work experience
   * Duties included: Developing Graph Representation Learning algorithms
   * Supervisor: Prof. <a href="https://jian-tang.com/"><u>Jian Tang</u> and <a href="http://www.site.uottawa.ca/~hguo028/mainpage.htm"><u>Hongyu Guo</u>
 
+* Oct 2020 - Jun 2021: Research Intern
+  * ByteDance Inc.
+  * Duties included: Developing Video Highlight Detection algorithms
+  * Supervisor: <a href="https://www.linkedin.com/in/zhenbang-sun-11581439/"><u>Zhenbang Sun</u>
+
 <!-- 
 Skills
 ======
@@ -59,4 +64,4 @@ Teaching
   
 Academic Services
 ======
-* Reviewer of CVPR 2020, NeurIPS 2020
+* Reviewer of CVPR 2020, 2021; NeurIPS 2020, 2021; ICCV 2021

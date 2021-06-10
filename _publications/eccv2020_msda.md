@@ -8,5 +8,5 @@ date: 2020-08-15
 authors: Hang Wang*, <b>Minghao Xu*</b>, Bingbing Ni, Wenjun Zhang (<b>* equal contribution</b>)
 paperurl: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530715.pdf
 codeurl: https://github.com/ChrisAllenMing/LtC-MSDA
-citation: 'Wang, H., Xu, M., Ni, B., & Zhang, W. (2020). Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation. arXiv preprint arXiv:2007.08801.'
+citation: 'Wang, H., Xu, M., Ni, B., & Zhang, W. (2020). Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation. In Proceedings of the European Conference on Computer Vision (pp. 727-744).'
 ---
