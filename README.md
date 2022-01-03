@@ -6,7 +6,7 @@ I would like to appreciate the academic page template provided by [this excellen
 
 ## Develop upon this project
 
-1. Fork this repository.
+1. Fork the repository.
 
 2. Rename it "yourusername.github.io".
  * Do this in the settings menu (top right, below watch/star/fork buttons).
