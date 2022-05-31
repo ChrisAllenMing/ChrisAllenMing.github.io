@@ -65,4 +65,4 @@ Teaching
   
 Academic Services
 ======
-* Reviewer of CVPR 2020, 2021, 2022; NeurIPS 2020, 2021; ICCV 2021; ICLR 2022
+* Reviewer of CVPR 2020, 2021, 2022; NeurIPS 2020, 2021, 2022; ICML 2022; ICCV 2021; ICLR 2022
