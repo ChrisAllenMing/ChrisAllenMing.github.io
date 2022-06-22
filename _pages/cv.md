@@ -29,7 +29,7 @@ Work experience
 
 * Oct 2020 - Jun 2021: Research Intern
   * ByteDance Inc.
-  * Duties included: Developing Video Highlight Detection algorithms
+  * Duties included: Developing Self-supervised Visual Representation Learning algorithms
   * Supervisor: <a href="https://www.linkedin.com/in/zhenbang-sun-11581439/"><u>Zhenbang Sun</u>
 
 <!-- 
