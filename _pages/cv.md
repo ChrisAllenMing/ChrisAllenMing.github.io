@@ -19,7 +19,7 @@ Work experience
 ======
 * Sep 2017 - Dec 2021: Research Assistant
   * Shanghai Jiao Tong University
-  * Duties included: Developing Domain Adaptation algorithms for Computer Vision
+  * Duties included: Developing Transfer Learning algorithms for Computer Vision
   * Supervisor: Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=eUbmKwYAAAAJ"><u>Bingbing Ni</u>
   
 * Mar 2020 - Dec 2021: Research Assistant
