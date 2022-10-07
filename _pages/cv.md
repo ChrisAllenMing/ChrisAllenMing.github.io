@@ -32,6 +32,12 @@ Work experience
   * Duties included: Developing Self-supervised Visual Representation Learning algorithms
   * Supervisor: <a href="https://www.linkedin.com/in/zhenbang-sun-11581439/"><u>Zhenbang Sun</u>
 
+* Jul 2022 - Oct 2021: Part-time Research Intern
+  * Meta AI
+  * Duties included: Developing multi-relational data modeling algorithms
+  * Supervisor: <a href="https://yuandong-tian.com/"><u>Yuandong Tian</u> and <a href="https://xinleic.xyz/"><u>Xinlei Chen</u>
+
+
 <!-- 
 Skills
 ======
@@ -65,4 +71,4 @@ Teaching
   
 Academic Services
 ======
-* Reviewer of CVPR 2020, 2021, 2022; NeurIPS 2020, 2021, 2022; ICML 2022; ICCV 2021; ICLR 2022
+* Reviewer of NeurIPS 2020, 2021, 2022; ICML 2022; ICLR 2022, 2023; CVPR 2020, 2021, 2022; ICCV 2021
