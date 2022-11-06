@@ -11,7 +11,7 @@ redirect_from:
 I was born in Shanghai, a fast-developing metropolis in China. 
 Currently, I am a first year PhD student at [Mila - Quebec AI Institute](https://mila.quebec/en/), advised by Prof. [Jian Tang](https://jian-tang.com/), 
 where I focus on molecular and protein representation learning for drug discovery, and structural image representation learning for visual understanding. 
-In Summer 2022, I am lucky to work closely with [Yuandong Tian](https://yuandong-tian.com/) and [Xinlei Chen](https://xinleic.xyz/) on multi-relational data modeling.
+In Summer 2022, I am lucky to work closely with [Yuandong Tian](https://yuandong-tian.com/) and [Xinlei Chen](https://xinleic.xyz/) from Meta AI on multi-relational data modeling.
 Previously, I received the Master and Bachelor degree from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Bingbing Ni](https://scholar.google.com/citations?hl=zh-CN&user=eUbmKwYAAAAJ), where I research on transfer learning algorithms for object recognition and detection. 
 During the period of Master study, I have a close collaboration with [Hongyu Guo](http://www.site.uottawa.ca/~hguo028/mainpage.htm) from National Research Council Canada, 
 [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en), [Vijil Chenthamarakshan](https://scholar.google.com/citations?user=g9hboJ0AAAAJ&hl=en) and [Aurelie Lozano](https://scholar.google.com/citations?user=4wTGaDsAAAAJ&hl=en) from IBM Research, [Arian Jamasb](http://jamasb.io/) from University of Cambridge and [Zhenbang Sun](https://www.linkedin.com/in/zhenbang-sun-11581439/?originalSubdomain=cn) from ByteDance Inc.
