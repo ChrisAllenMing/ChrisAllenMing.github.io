@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I was born in Shanghai, a fast-developing metropolis in China. 
-Currently, I am a first year PhD student at [Mila - Quebec AI Institute](https://mila.quebec/en/), advised by Prof. [Jian Tang](https://jian-tang.com/), 
+Currently, I am a second-year PhD student at [Mila - Quebec AI Institute](https://mila.quebec/en/), advised by Prof. [Jian Tang](https://jian-tang.com/), 
 where I focus on molecular and protein representation learning for drug discovery, and structural image representation learning for visual understanding. 
 In Summer 2022, I am lucky to work closely with [Yuandong Tian](https://yuandong-tian.com/) and [Xinlei Chen](https://xinleic.xyz/) from Meta AI on multi-relational data modeling.
 Previously, I received the Master and Bachelor degree from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Bingbing Ni](https://scholar.google.com/citations?hl=zh-CN&user=eUbmKwYAAAAJ), where I research on transfer learning algorithms for object recognition and detection. 
