@@ -12,7 +12,8 @@ I was born in Shanghai, a fast-developing metropolis in China.
 Currently, I am a PhD student at [Peking University](https://english.pku.edu.cn/) and [Mila - Quebec AI Institute](https://mila.quebec/en/),
 advised by Prof. [Wentao Zhang](https://zwt233.github.io/) from PKU and Prof. [Jian Tang](https://jian-tang.com/) from Mila, 
 where I focus on AI-guided Drug Discovery and building Biological Foundation Models. 
-I am also a startup member of [BioGeometry](https://www.biogeom.com/), where we aim at facilitating Protein Design with Generative AI. 
+
+[//]: # (I am also a startup member of [BioGeometry]&#40;https://www.biogeom.com/&#41;, where we aim at facilitating Protein Design with Generative AI. )
 
 [//]: # (In Summer 2022, I am lucky to work closely with [Yuandong Tian]&#40;https://yuandong-tian.com/&#41; and [Xinlei Chen]&#40;https://xinleic.xyz/&#41; from Meta AI on multi-relational data modeling.)
 Previously, I received the Master and Bachelor degree from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Bingbing Ni](https://scholar.google.com/citations?hl=zh-CN&user=eUbmKwYAAAAJ), where I research on transfer learning algorithms for object recognition and detection. 
